@@ -1,0 +1,55 @@
+.btn.focus,
+.btn:focus {
+	outline: 0;
+	-webkit-box-shadow: 0 7px 14px rgba(50, 50, 93, .1), 0 3px 6px rgba(0, 0, 0, .08);
+	box-shadow: 0 7px 14px rgba(50, 50, 93, .1), 0 3px 6px rgba(0, 0, 0, .08)
+}
+
+.btn-default.focus,
+.btn-default:focus {
+	-webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(23, 43, 77, .5);
+	box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(23, 43, 77, .5);
+	background: #112039
+}
+
+.btn-secondary.focus,
+.btn-secondary:focus {
+	-webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(247, 250, 252, .5);
+	box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(247, 250, 252, .5);
+	background: #e4eef5
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+	-webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(94, 114, 228, .5);
+	box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(94, 114, 228, .5);
+	background: #485fe0
+}
+
+.btn-info.focus,
+.btn-info:focus {
+	-webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(17, 205, 239, .5);
+	box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(17, 205, 239, .5);
+	background: #0fb9d8
+}
+
+.btn-success.focus,
+.btn-success:focus {
+	-webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(45, 206, 137, .5);
+	box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(45, 206, 137, .5);
+	background: #28b97b
+}
+
+.btn-warning.focus,
+.btn-warning:focus {
+	-webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(251, 99, 64, .5);
+	box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(251, 99, 64, .5);
+	background: #fa4f27
+}
+
+.btn-danger.focus,
+.btn-danger:focus {
+	-webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(245, 54, 92, .5);
+	box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08), 0 0 0 3px rgba(245, 54, 92, .5);
+	background: #f41e48
+}
