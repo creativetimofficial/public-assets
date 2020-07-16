@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="364px" height="128px" viewBox="0 0 364 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>v1 copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-89.000000, -438.000000)">
+            <g id="v1-copy-2" transform="translate(93.000000, 442.000000)">
+                <rect id="Rectangle" stroke="#4A5568" stroke-width="7.5" x="0" y="0" width="60" height="60" rx="1"></rect>
+                <rect id="Rectangle-Copy" stroke="#4A5568" stroke-width="7.5" x="30" y="60" width="60" height="60" rx="1"></rect>
+                <rect id="Rectangle-Copy-3" stroke="#4A5568" stroke-width="7.5" x="59" y="0" width="60" height="60" rx="1"></rect>
+                <text id="daas" font-family="Roboto-Regular, Roboto" font-size="100" font-weight="normal" letter-spacing="-3.5" fill="#4A5568">
+                    <tspan x="159" y="95">daas</tspan>
+                </text>
+                <g id="Group" transform="translate(13.000000, 19.000000)" fill="#4A5568">
+                    <rect id="Rectangle" transform="translate(10.146447, 10.646447) rotate(45.000000) translate(-10.146447, -10.646447) " x="7.14644661" y="-0.353553391" width="6" height="22" rx="3"></rect>
+                    <rect id="Rectangle-Copy-2" transform="translate(21.874738, 10.658732) scale(1, -1) rotate(45.000000) translate(-21.874738, -10.658732) " x="18.8747381" y="-0.341268102" width="6" height="22" rx="3"></rect>
+                </g>
+                <g id="Group-Copy" transform="translate(74.000000, 19.000000)" fill="#4A5568">
+                    <rect id="Rectangle" transform="translate(10.146447, 10.646447) rotate(45.000000) translate(-10.146447, -10.646447) " x="7.14644661" y="-0.353553391" width="6" height="22" rx="3"></rect>
+                    <rect id="Rectangle-Copy-2" transform="translate(21.874738, 10.658732) scale(1, -1) rotate(45.000000) translate(-21.874738, -10.658732) " x="18.8747381" y="-0.341268102" width="6" height="22" rx="3"></rect>
+                </g>
+                <g id="Group-Copy-2" transform="translate(59.000000, 90.500000) scale(1, -1) translate(-59.000000, -90.500000) translate(43.000000, 80.000000)" fill="#4A5568">
+                    <rect id="Rectangle" transform="translate(10.146447, 10.646447) rotate(45.000000) translate(-10.146447, -10.646447) " x="7.14644661" y="-0.353553391" width="6" height="22" rx="3"></rect>
+                    <rect id="Rectangle-Copy-2" transform="translate(21.874738, 10.658732) scale(1, -1) rotate(45.000000) translate(-21.874738, -10.658732) " x="18.8747381" y="-0.341268102" width="6" height="22" rx="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
