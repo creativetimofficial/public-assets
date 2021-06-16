@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'ios7-style-font-icons';
-  src: url(<%= asset_path('webfonts/ios7/ios7-style-font-icons.eot') %>);
-  src: url(<%= asset_path('webfonts/ios7/ios7-style-font-icons.eot?#iefix') %>) format('embedded-opentype'),
-    url(<%= asset_path('webfonts/ios7/ios7-style-font-icons.ttf') %>) format('truetype'),
-    url(<%= asset_path('webfonts/ios7/ios7-style-font-icons.woff') %>) format('woff');
+  src: url('ios7/ios7-style-font-icons.eot');
+  src: url('ios7/ios7-style-font-icons.eot?#iefix') format('embedded-opentype'),
+    url('ios7/ios7-style-font-icons.ttf') format('truetype'),
+    url('ios7/ios7-style-font-icons.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
