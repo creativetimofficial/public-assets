@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="Nucleo" horiz-adv-x="256">
+    <font-face font-family="Nucleo"
+      units-per-em="256" ascent="256"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="ic_keyboard_arrow_down_24px"
+      unicode="&#xEA01;"
+      horiz-adv-x="256" d="M79.04 172.3733333333333L128 123.52L176.96 172.3733333333333L192 157.3333333333334L128 93.3333333333333L64 157.3333333333334z" />
+    <glyph glyph-name="zoom-2"
+      unicode="&#xEA02;"
+      horiz-adv-x="256" d="M203.2 75.2C217.6 94.4 225.6 116.8 225.6 142.4C225.6 204.8 176 256 113.6 256S0 204.8 0 142.4C0 80 51.2 28.8 113.6 28.8C139.2 28.8 163.2 36.8 180.8 51.2L228.8 3.2C232 0 236.8 -1.6 240 -1.6S248 0 251.2 3.2C257.6 9.6000000000001 257.6 19.2 251.2 25.6000000000001L203.2 75.2zM113.6 62.4C68.8 62.4 32 97.6 32 142.4S68.8 224 113.6 224S195.2 187.2 195.2 142.4S158.4 62.4 113.6 62.4z" />
+  </font>
+</defs>
+</svg>
