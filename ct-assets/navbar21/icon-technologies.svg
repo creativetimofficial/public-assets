@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-technologies</title>
+    <defs>
+        <path d="M23.0072074,28.03 L5.02186039,28.03 C2.24816838,28.03 0,25.7817569 0,23.0079726 L0,5.0220274 C0,2.24824315 2.24816838,0 5.02186039,0 L23.0072074,0 C25.7808995,0 28.0290678,2.24824315 28.0290678,5.0220274 L28.0290678,23.0079726 C28.0290678,25.7817569 25.7808995,28.03 23.0072074,28.03 Z" id="path-1"></path>
+        <filter x="-157.9%" y="-157.9%" width="415.7%" height="415.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="22" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-44" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.302556818 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M18.6101679,9.29015459 C19.5961256,10.2966721 19.5961256,11.906865 18.6101679,12.9133825 L11.5120209,20.1595443 L11.5120209,20.1595443 L7.96280336,20.1595443 L7.96280336,16.5363164 L15.0609503,9.29015459 C16.0210198,8.31006524 17.5938292,8.29383587 18.5739185,9.25390527 C18.586126,9.26586338 18.5982097,9.27794713 18.6101679,9.29015459 Z" id="path-3"></path>
+        <filter x="-28.2%" y="-27.1%" width="180.2%" height="178.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="2" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.333371463 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon-technologies" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <g id="Stroke-3">
+                <use fill-opacity="0.3" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: multiply;" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke-opacity="0.273621886" stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-1"></use>
+            </g>
+            <g id="Stroke-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

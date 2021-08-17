@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>laptop-2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="navbar-resources-" transform="translate(-686.000000, -119.000000)" stroke="#FFFFFF">
+            <g id="resources" transform="translate(657.000000, 68.000000)">
+                <g id="Design-systems" transform="translate(24.000000, 44.000000)">
+                    <g id="laptop-2" transform="translate(6.000000, 8.000000)">
+                        <line x1="0" y1="8" x2="12" y2="8" id="Path"></line>
+                        <rect id="Rectangle" fill="#FFFFFF" opacity="0.597588118" x="1.6" y="0" width="8.8" height="6.4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-blog</title>
+    <defs>
+        <path d="M24.0072074,29.6135467 L6.02186039,29.6135467 C3.24816838,29.6135467 1,27.3184982 1,24.4869675 L1,6.12657923 C1,3.29504854 3.24816838,1 6.02186039,1 L24.0072074,1 C26.7808995,1 29.0290678,3.29504854 29.0290678,6.12657923 L29.0290678,24.4869675 C29.0290678,27.3184982 26.7808995,29.6135467 24.0072074,29.6135467 Z" id="path-1"></path>
+        <filter x="-157.9%" y="-154.6%" width="415.7%" height="409.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="22" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-44" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.302556818 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M14.5161395,0 L3.38734766,0 C3.12011888,0 2.90348715,0.223857625 2.90348715,0.5 L2.90348715,13.0095 C2.90606683,13.2695488 2.80856466,13.5200042 2.6324327,13.7057619 C2.45630074,13.8915197 2.21596883,13.9973613 1.96431389,14 L1.89221867,14 C1.37261469,13.9904199 0.958877896,13.5474376 0.968045093,13.0105 L0.968045093,9 L1.93576612,9 L1.93576612,8 L0.484184579,8 C0.216955796,8 0.000324064628,8.22385763 0.000324064628,8.5 L0.000324064628,12.9905 C-0.0090011051,13.5138448 0.183253862,14.0195805 0.534790763,14.3964397 C0.886327663,14.7732989 1.36834717,14.9904078 1.8747997,15 L13.092138,15 C14.1331561,14.9993466 14.9817969,14.1370777 15,13.0615 L15,0.5 C15,0.223857625 14.7833683,0 14.5161395,0 Z M12.3947368,11.8421053 L5.76315789,11.8421053 C5.63235361,11.8421053 5.52631579,11.7537404 5.52631579,11.6447368 L5.52631579,11.25 C5.52631579,11.1409964 5.63235361,11.0526316 5.76315789,11.0526316 L12.3947368,11.0526316 C12.5255411,11.0526316 12.6315789,11.1409964 12.6315789,11.25 L12.6315789,11.6447368 C12.6315789,11.7537404 12.5255411,11.8421053 12.3947368,11.8421053 Z M12.3947368,8.68421053 L5.76315789,8.68421053 C5.63235361,8.68421053 5.52631579,8.59584567 5.52631579,8.48684211 L5.52631579,8.09210526 C5.52631579,7.98310169 5.63235361,7.89473684 5.76315789,7.89473684 L12.3947368,7.89473684 C12.5255411,7.89473684 12.6315789,7.98310169 12.6315789,8.09210526 L12.6315789,8.48684211 C12.6315789,8.59584567 12.5255411,8.68421053 12.3947368,8.68421053 Z M12.3947368,5.52631579 L5.76315789,5.52631579 C5.63235361,5.52631579 5.52631579,5.42532739 5.52631579,5.30075188 L5.52631579,2.59398496 C5.52631579,2.46940945 5.63235361,2.36842105 5.76315789,2.36842105 L12.3947368,2.36842105 C12.5255411,2.36842105 12.6315789,2.46940945 12.6315789,2.59398496 L12.6315789,5.30075188 C12.6315789,5.42532739 12.5255411,5.52631579 12.3947368,5.52631579 Z" id="path-3"></path>
+        <filter x="-23.3%" y="-30.0%" width="173.3%" height="173.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="2" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.175890516 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon-blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stroke-3">
+            <use fill-opacity="0.3" fill="#FFFFFF" fill-rule="evenodd" style="mix-blend-mode: multiply;" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use stroke-opacity="0.273621886" stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-1"></use>
+        </g>
+        <g id="news" transform="translate(7.000000, 8.000000)" fill-rule="nonzero">
+            <g id="Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>
