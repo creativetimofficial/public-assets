@@ -1318,6 +1318,10 @@ video {
   margin-right: 0.b7e52;
 }
 
+.26d39\.e4da3 {
+  margin-right: 0.4fc32;
+}
+
 .74755 {
   margin-right: 0.4b59f;
 }
@@ -2033,6 +2037,10 @@ video {
   min-height: 0.4b59f;
 }
 
+.8fa6f {
+  min-height: 10rem;
+}
+
 .fbb98 {
   min-height: 12rem;
 }
@@ -2711,6 +2719,11 @@ video {
 
 .0b7a6 {
   --tw-rotate: -90deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.ee0c3 {
+  --tw-rotate: 0deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
@@ -5695,8 +5708,7 @@ video {
 }
 
 .\[clip-path\:polygon\(0_0\2c _100\%_100\%\2c _0_100\%\)\] {
-  -webkit-clip-path: polygon(0 0, 100% 100%, 0 100%);
-          clip-path: polygon(0 0, 100% 100%, 0 100%);
+  clip-path: polygon(0 0, 100% 100%, 0 100%);
 }
 
 .\[text-wrap\:_balance\] {
